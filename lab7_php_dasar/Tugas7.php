@@ -37,6 +37,7 @@
         $nama = $_POST["nama"];
         $tanggal_lahir = $_POST["tanggal_lahir"];
         $pekerjaan_pilihan = $_POST["pekerjaan"];
+        $NIM =$_POST["NIM"];
 
         // Menghitung umur
         $umur = hitungUmur($tanggal_lahir);
@@ -62,6 +63,9 @@
 
         <label for="tanggal_lahir">Tanggal Lahir:</label>
         <input type="date" name="tanggal_lahir" required><br><br>
+
+        <label for="NIM">NIM:</label>
+        <input type="number" name="NIM"required><br><br>
 
         <label for="pekerjaan">Pekerjaan:</label>
         <select name="pekerjaan" required>
