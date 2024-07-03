@@ -6,6 +6,9 @@
 | **NIM** | 312210279 |
 | **Kelas** | TI.22.A4 |
 | **Mata Kuliah** | Pemrograman WEB |
+-------------------------------------------------------------
+##CODING
+
 public function admin_index()
 {
 $title = 'Daftar Artikel';
@@ -20,6 +23,8 @@ return view('artikel/admin_index', $data);
 }
 ## HASIL
 ![1](https://github.com/ricky1211/Lab7Web/blob/main/Screenshot%20(49).png)
+##CODING
+
 public function admin_index()
 {
 $title = 'Daftar Artikel';
