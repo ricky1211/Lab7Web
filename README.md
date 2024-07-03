@@ -7,6 +7,6 @@
 | **Kelas** | TI.22.A4 |
 | **Mata Kuliah** | Pemrograman WEB |
 ## MENU TAMPILAN
-![Screenshot (314)](https://github.com/ricky1211/Lab7Web/assets/116001059/5c0c4d14-9355-4919-be2d-c8dcd34e9d89)
+![1](https://https://github.com/ricky1211/Lab7Web/blob/main/Screenshot%20(49).png)
 ## Hasil
-![Screenshot (313)](https://github.com/ricky1211/Lab7Web/assets/116001059/1303d6ae-e131-4371-8c59-9386cb4f50e4)
+![2](https://github.com/ricky1211/Lab7Web/blob/main/Screenshot%20(50).png)
