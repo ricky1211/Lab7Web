@@ -23,6 +23,7 @@ return view('artikel/admin_index', $data);
 }
 ## HASIL
 ![1](https://github.com/ricky1211/Lab7Web/blob/main/Screenshot%20(49).png)
+
 ##CODING
 
 public function admin_index()
